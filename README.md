@@ -22,7 +22,14 @@
 
 ###
 
-<h4 align="left">(⌐■_■)︻╦╤─ (╥﹏╥) Working on Zig compiler in C, algorithms, networking, GPU image processing basics and more in the future<br>✿ڿڰۣ— In University team VUT FIT<br>███▒▒▒▒▒▒▒ I’m learning: C, C++, Java, C#, VHDL, Prolog, Python, Assembly<br>( ͡° ͜ʖ ͡°)_/¯ Ask me anything, but I might be dumbass (I am)<br>㊙ Fun fact: I love orange cats, best film series(How To Train Your Dragon) <- No one cares</h4>
+<h4 align="left">
+(⌐■_■)︻╦╤─ (╥﹏╥) Working on Zig compiler in C, algorithms, networking, GPU image processing basics and more in the future<br><br>
+✿ڿڰۣ— In University team VUT FIT<br><br>
+███▒▒▒▒▒▒▒ I’m learning: C, C++, Java, C#, VHDL, Prolog, Python, Assembly<br><br>
+( ͡° ͜ʖ ͡°)_/¯ Ask me anything, but I might be dumbass (I am)<br><br>
+㊙ Fun fact: I love orange cats, best film series(How To Train Your Dragon) <- No one cares
+</h4>
+
 
 ###
 
