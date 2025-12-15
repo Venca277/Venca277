@@ -23,7 +23,7 @@
 ###
 
 <h4 align="left">
-(⌐■_■)︻╦╤─ (╥﹏╥) Working on Zig compiler in C, algorithms, networking, GPU image processing basics and more in the future<br><br>
+(⌐■_■)︻╦╤─ (╥﹏╥) Zig compiler in C, algorithms, networking<br><br>
 ✿ڿڰۣ— In University team VUT FIT<br><br>
 ███▒▒▒▒▒▒▒ I’m learning: C, C++, Java, C#, VHDL, Prolog, Python, Assembly<br><br>
 ( ͡° ͜ʖ ͡°)_/¯ Ask me anything, but I might be dumbass (I am)<br><br>
