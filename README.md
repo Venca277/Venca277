@@ -10,14 +10,19 @@
 
 ### WHAT I DO
 > Currently pursuing my Master's degree at **FI MUNI** (Bachelor's completed at FIT VUT).
+
 > Focused on **Application Development, 3D Visualization and IoT stuff**.
+
 > Practical background in hardware diagnostics, network troubleshooting, and IT support as an IT Technician at FNHK.
 
 ### FEATURED PROJECTS
-> **Autonomous Drone 3D Mission Planner:** Developed algorithms for automated flight path calculation and 3D building inspection using photogrammetry (Presented at ExcelFIT).\n
-> **Custom IoT Geolocation Tracker:** Designed and programmed compact, low-power GPS logger utilizing ESP32 microcontrollers and SIM7080G telecomunication module.\n
-> **Grafic Finite automata designer:** Designed and programmed Qt C++ application for Finite Automata construction and execution in team of 4 people.\n
-> **React chess client:** Developed and designed React client application for fully playable chess experience based on public Lichess API.\n
+> **Autonomous Drone 3D Mission Planner:** Developed algorithms for automated flight path calculation and 3D building inspection using photogrammetry (Presented at ExcelFIT).
+
+> **Custom IoT Geolocation Tracker:** Designed and programmed compact, low-power GPS logger utilizing ESP32 microcontrollers and SIM7080G telecomunication module.
+
+> **Grafic Finite automata designer:** Designed and programmed Qt C++ application for Finite Automata construction and execution in team of 4 people.
+
+> **React chess client:** Developed and designed React client application for fully playable chess experience based on public Lichess API.
 
 <br clear="both">
 
