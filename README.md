@@ -9,15 +9,15 @@
 </p>
 
 ### WHAT I DO
-> Currently pursuing my Master's degree at **FI MUNI** (BSc. completed at FIT VUT).
-> Focused on **Application Development, 3D Visualization, and GIS integration**.
-> Practical background in hardware diagnostics, network troubleshooting, and IT support (Ex-IT Technician at FNHK).
-> Building on a solid foundation of standard OOP, traditional backend systems, and clean architecture.
+> Currently pursuing my Master's degree at **FI MUNI** (Bachelor's completed at FIT VUT).
+> Focused on **Application Development, 3D Visualization and IoT stuff**.
+> Practical background in hardware diagnostics, network troubleshooting, and IT support as an IT Technician at FNHK.
 
 ### FEATURED PROJECTS
-> **Autonomous Drone 3D Mission Planner:** Developed algorithms for automated flight path calculation and 3D building inspection using photogrammetry (Presented at ExcelFIT).
-> **Custom IoT Geolocation Tracker:** Designed and programmed compact, low-power GPS loggers utilizing ESP32 microcontrollers.
-> **Model Rocket Telemetry:** Designing 3D printed rocket frames integrated with custom flight logging electronics and trajectory calculations.
+> **Autonomous Drone 3D Mission Planner:** Developed algorithms for automated flight path calculation and 3D building inspection using photogrammetry (Presented at ExcelFIT).\n
+> **Custom IoT Geolocation Tracker:** Designed and programmed compact, low-power GPS logger utilizing ESP32 microcontrollers and SIM7080G telecomunication module.\n
+> **Grafic Finite automata designer:** Designed and programmed Qt C++ application for Finite Automata construction and execution in team of 4 people.\n
+> **React chess client:** Developed and designed React client application for fully playable chess experience based on public Lichess API.\n
 
 <br clear="both">
 
@@ -43,7 +43,7 @@
 ### OUTSIDE OF CODING
 When I am away from the keyboard, you can find me **3D printing**, designing **model rockets**, practicing **Judo**, or riding my **motorcycle**.
 
-### LET'S CONNECT
+### CONNECT WITH ME
 <div align="left">
   <a href="https://www.linkedin.com/in/TVUJ_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
